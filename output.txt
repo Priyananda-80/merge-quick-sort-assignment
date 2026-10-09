@@ -1,0 +1,25 @@
+
+Input weights: 20, 15, 20, 10, 15, 20, 25, 10
+
+Merge Sort Output:
+P4 10
+P8 10
+P2 15
+P5 15
+P1 20
+P3 20
+P6 20
+P7 25
+
+Stable Quick Sort Output:
+P4 10
+P8 10
+P2 15
+P5 15
+P1 20
+P3 20
+P6 20
+P7 25
+
+Both algorithms produce sorted weights.
+Equal-weight packages retain their original relative order.
